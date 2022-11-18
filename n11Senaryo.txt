@@ -1,0 +1,4 @@
+1- https://www.n11.com sayfasına gidilir.
+2- Ana sayfanın açıldığının kontrolü.
+3- Arama kısmına saat yazılır.
+4- Çıkan sonuçların doğruluğu kontrol edilir.
